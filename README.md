@@ -28,7 +28,7 @@ assignment.ipynb
 
 ## Day 1
 
-重点笔记: day1/note
+重点笔记: day1/note.md
 
 课后补充阅读：
 1. 《Anomaly Detection: A Survey》
