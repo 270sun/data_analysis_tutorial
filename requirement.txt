@@ -1,0 +1,2 @@
+xlwt>=1.2.0
+PyWavelets==0.5.2
