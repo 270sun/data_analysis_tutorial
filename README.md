@@ -4,7 +4,7 @@
 1. 《深度学习》第一章至第四章
 2. 《统计自然语言处理》第二章
 
-参考资料请联系助教获取
+公开的参考资料在lectures目录下，其他不能公开的资料在Google Team Drive里面。
 
 ## 课程安排：
 
@@ -19,17 +19,25 @@
  * 大作业: 
     1. 通过汽车之家的评论数据分析主要车型在市场上的情况。
 
+## 作业
+每位同学把作业写在每次课的目录（day$N/assignment）下，assignment目录已经被添加到.gitignore里面了，所以作业不会提交到git仓库。
+```
+ls day1/assignment
+assignment.ipynb
+```
+
 ## Day 1
 
-1. books: 需要读的书
-2. lectures: 课外补充的一些讲义 
-3. data_discovery.ipynb: 课上用的jupyter notebook
-4. note: 同学们的一些笔记
+重点笔记: day1/note
 
 课后补充阅读：
 1. 《Anomaly Detection: A Survey》
 
 ## Day 2
+
+课后补充阅读：
+1. 《Summarization - Compressing Data into an Informative Representation》
+
 
 ## Day 3
 课后补充阅读：
