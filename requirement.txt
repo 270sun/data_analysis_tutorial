@@ -1,3 +1,5 @@
 xlwt>=1.2.0
 PyWavelets==0.5.2
 apyori==1.1.1
+snownlp==0.12.3
+gensim==3.4.0
