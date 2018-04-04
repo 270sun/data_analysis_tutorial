@@ -1,7 +1,7 @@
 # Data Analysis Tutorial
 
 ## 数学基础
-1. 《统计自然语言处理》第二章（必读）
+1. 《统计自然语言处理基础》第二章（必读），作者：Christopher D. Manning; Hinrich Schütz
 2. 《深度学习》第一章至第四章（推荐）
 
 公开的参考资料在lectures目录下，其他不能公开的资料在Google Team Drive里面。
